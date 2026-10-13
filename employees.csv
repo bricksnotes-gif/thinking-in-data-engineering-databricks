@@ -1,0 +1,21 @@
+employee_id,name,department,salary,hire_date
+1,Alice Chen,Engineering,95000,2021-03-15
+2,Bob Smith,Engineering,87000,2022-01-10
+3,Carol White,Sales,72000,2020-06-22
+4,David Brown,Sales,68000,2023-02-01
+5,Eva Martinez,Engineering,102000,2019-11-30
+6,Frank Johnson,HR,65000,2021-08-14
+7,Grace Lee,Marketing,78000,2020-04-18
+8,Henry Wilson,Finance,92000,2019-07-22
+9,Iris Kumar,Engineering,115000,2018-09-05
+10,Jack Thompson,Sales,75000,2021-11-28
+11,Karen Davis,HR,58000,2023-06-12
+12,Leo Garcia,Marketing,85000,2020-01-15
+13,Maria Rodriguez,Finance,88000,2021-05-20
+14,Nathan Park,Engineering,98000,2022-03-08
+15,Olivia Taylor,Sales,82000,2019-12-01
+16,Peter Zhang,Engineering,145000,2018-03-22
+17,Quinn Adams,Marketing,67000,2023-09-10
+18,Rachel Kim,Finance,95000,2020-08-30
+19,Samuel Wright,HR,72000,2022-07-15
+20,Tina Patel,Engineering,108000,2019-04-25

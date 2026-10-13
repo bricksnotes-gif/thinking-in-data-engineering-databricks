@@ -1,0 +1,11 @@
+product_id,name,price,category
+P001,Laptop Pro,1299.99,Electronics
+P002,Wireless Mouse,29.99,Electronics
+P003,USB-C Hub,49.99,Electronics
+P004,Mechanical Keyboard,149.99,Electronics
+P005,Monitor Stand,79.99,Accessories
+P006,Webcam HD,89.99,Electronics
+P007,Desk Lamp,34.99,Office
+P008,Notebook Set,12.99,Office
+P009,Ergonomic Chair,399.99,Furniture
+P010,Standing Desk,599.99,Furniture

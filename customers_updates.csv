@@ -1,0 +1,6 @@
+customer_id,name,email,phone,city,state,created_date,last_updated
+C100,Alice Johnson,alice.johnson@newmail.com,555-0100,Bellevue,WA,2024-01-15,2024-01-20
+C102,Carol White-Martinez,carol.wm@email.com,555-0102,San Francisco,CA,2024-01-15,2024-01-19
+C103,David Brown,david.brown@work.com,555-0103,San Diego,CA,2024-01-16,2024-01-21
+C106,Grace Lee,grace.lee@email.com,555-0106,Phoenix,AZ,2024-01-20,2024-01-20
+C107,Henry Wilson,henry.w@email.com,555-0107,Chicago,IL,2024-01-21,2024-01-21

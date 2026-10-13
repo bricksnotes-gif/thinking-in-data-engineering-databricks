@@ -1,0 +1,13 @@
+product_id,name,price,category,weight_kg,in_stock
+P001,Laptop Pro,1299.99,Electronics,1.8,true
+P002,Wireless Mouse,29.99,Electronics,0.1,true
+P003,USB-C Hub,49.99,Electronics,0.15,true
+P004,Mechanical Keyboard,149.99,Electronics,0.9,true
+P005,Monitor Stand,79.99,Accessories,2.5,true
+P006,Webcam HD,89.99,Electronics,0.2,false
+P007,Desk Lamp,34.99,Office,0.8,true
+P008,Notebook Set,12.99,Office,0.3,true
+P009,Ergonomic Chair,399.99,Furniture,15.0,true
+P010,Standing Desk,599.99,Furniture,35.0,false
+P011,Monitor 27inch,349.99,Electronics,5.2,true
+P012,Headphones Pro,199.99,Electronics,0.35,true

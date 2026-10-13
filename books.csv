@@ -1,0 +1,16 @@
+book_id,title,author_id,genre,price
+B001,The Data Detective,A001,Non-Fiction,24.99
+B002,Python Mastery,A002,Technical,39.99
+B003,Cloud Adventures,A001,Technical,34.99
+B004,SQL Fundamentals,A003,Technical,29.99
+B005,The Algorithm,A004,Fiction,19.99
+B006,Data Stories,A002,Non-Fiction,27.99
+B007,Machine Learning Basics,A005,Technical,44.99
+B008,The Silent Code,A004,Fiction,22.99
+B009,Database Design,A003,Technical,37.99
+B010,AI Revolution,A006,Non-Fiction,31.99
+B011,Web Development Guide,A007,Technical,42.99
+B012,Digital Horizons,A004,Fiction,18.99
+B013,Big Data Explained,A001,Technical,49.99
+B014,The Cloud Atlas,A008,Fiction,21.99
+B015,Analytics Handbook,A002,Technical,54.99

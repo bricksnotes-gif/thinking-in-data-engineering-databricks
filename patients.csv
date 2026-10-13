@@ -1,0 +1,21 @@
+patient_id,name,age,email,admission_date
+PT001,John Smith,45,john.smith@email.com,2024-01-10
+PT002,Mary Johnson,-5,invalid-email,2024-01-11
+PT003,Robert Davis,62,robert.d@email.com,2024-01-11
+PT004,Sarah Wilson,38,sarah.wilson@email.com,2024-01-12
+PT005,Michael Brown,150,m.brown@email.com,2024-01-12
+PT006,Emily Clark,29,emily.c@email.com,2024-01-13
+PT007,David Lee,,david.lee@email.com,2024-01-13
+PT008,Jennifer Wang,41,jen.wang@,2024-01-14
+PT009,Christopher Miller,55,chris.m@email.com,2024-01-14
+PT010,Amanda Taylor,-12,amanda.t@email.com,2024-01-15
+PT011,Daniel Garcia,33,daniel.garcia@email.com,2024-01-15
+PT012,Michelle Martinez,,michelle@email.com,2024-01-16
+PT013,James Anderson,67,j.anderson@email.com,2024-01-16
+PT014,Lisa Thompson,200,lisa.t@email.com,2024-01-17
+PT015,Kevin White,48,kevin.white@email.com,2024-01-17
+PT016,Sandra Harris,36,@email.com,2024-01-18
+PT017,Brian Robinson,52,brian.r@email.com,2024-01-18
+PT018,Patricia Lewis,44,patricia.lewis@email.com,2024-01-19
+PT019,Steven Walker,-3,steven.w@email.com,2024-01-19
+PT020,Nancy Hall,71,nancy.hall@email.com,2024-01-20

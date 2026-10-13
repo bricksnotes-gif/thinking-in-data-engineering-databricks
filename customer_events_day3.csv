@@ -1,0 +1,11 @@
+event_id,customer_id,event_type,event_timestamp,order_id,amount
+E021,C103,purchase,2024-01-17 08:45:22,ORD005,199.99
+E022,C104,browse,2024-01-17 09:10:33,,
+E023,C104,browse,2024-01-17 09:25:44,,
+E024,C105,signup,2024-01-17 10:00:11,,
+E025,C100,browse,2024-01-17 10:30:22,,
+E026,C104,add_to_cart,2024-01-17 09:35:55,,
+E027,C104,purchase,2024-01-17 09:42:18,ORD006,349.99
+E028,C105,browse,2024-01-17 10:15:33,,
+E029,C101,browse,2024-01-17 11:00:44,,
+E030,C105,add_to_cart,2024-01-17 10:30:22,,

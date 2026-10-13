@@ -1,0 +1,21 @@
+order_id,customer_name,product,quantity,unit_price,order_date
+ORD-001,  alice chen  ,Widget Pro,2,29.99,2024-01-15
+ORD-002,BOB SMITH,Gadget Plus,1,49.99,2024-01-16
+ORD-003,Carol White,Widget Pro,-1,29.99,2024-01-16
+ORD-004,david brown,Super Tool,3,19.99,2024-01-17
+ORD-005,Eva Martinez,Gadget Plus,2,49.99,2024-01-18
+ORD-006,  FRANK LEE,Widget Pro,0,29.99,2024-01-18
+ORD-007,grace kim  ,Super Tool,5,19.99,2024-01-19
+ORD-008,Henry Wilson,Power Unit,1,149.99,2024-01-20
+ORD-009,  iris patel  ,Gadget Plus,3,49.99,2024-01-20
+ORD-010,JACK CHEN,Widget Pro,2,29.99,2024-01-21
+ORD-011,kate Brown,Power Unit,-2,149.99,2024-01-22
+ORD-012,Leo Garcia,Super Tool,4,19.99,2024-01-23
+ORD-013,  maria rodriguez,Gadget Plus,1,49.99,2024-01-23
+ORD-014,NATHAN PARK,Widget Pro,6,29.99,2024-01-24
+ORD-015,olivia taylor,Power Unit,1,149.99,2024-01-25
+ORD-016,Peter Zhang  ,Super Tool,0,19.99,2024-01-25
+ORD-017,  quinn adams,Gadget Plus,2,49.99,2024-01-26
+ORD-018,RACHEL KIM,Widget Pro,3,29.99,2024-01-27
+ORD-019,sam wright,Power Unit,1,149.99,2024-01-28
+ORD-020,  Tina Lee  ,Super Tool,4,19.99,2024-01-28

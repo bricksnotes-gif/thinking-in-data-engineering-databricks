@@ -1,0 +1,16 @@
+customer_id,name,phone,country,email
+C001,Alice Chen,+1-555-123-4567,US,alice.chen@email.com
+C002,Bob Smith,44 20 7946 0958,UK,bob.smith@company.co.uk
+C003,Carlos García,+34 612 345 678,ES,carlos.garcia@empresa.es
+C004,Diana Lee,555.867.5309,US,diana.lee@gmail.com
+C005,Erik Müller,+49-30-12345678,DE,erik.mueller@firma.de
+C006,Françoise Martin,+33 6 12 34 56 78,FR,francoise@mail.fr
+C007,George Brown,(555) 234-5678,US,george.brown@work.com
+C008,Hannah Schmidt,0049 89 9876543,DE,hannah.s@email.de
+C009,Ivan Petrov,+7-495-123-4567,RU,ivan.petrov@mail.ru
+C010,Julia Santos,+55 11 98765-4321,BR,julia.santos@email.com.br
+C011,Kevin O'Brien,+353 87 123 4567,IE,kevin.obrien@irish.ie
+C012,Lisa Yamamoto,+81-3-1234-5678,JP,lisa.y@company.jp
+C013,Michael Wong,852-1234-5678,HK,michael.wong@hk.com
+C014,Nadia Abbas,,AE,nadia.abbas@email.ae
+C015,Oscar Lindgren,+46 70 123 45 67,SE,oscar.l@swedish.se
